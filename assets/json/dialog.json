@@ -1,0 +1,56 @@
+[
+	[
+		{
+			"speaker" : "homer",
+			"dialog" : "Bart get over here so i can be...a good father",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "jove",
+			"dialog" : "that's not very cash money",
+			"newSpeaker" : "false"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "oh well",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "another bites the dust"
+		}
+	],
+	[
+		{
+			"speaker" : "neptune",
+			"dialog" : "to the sea.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "minerva",
+			"dialog" : "The C?.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "Not C. The Sea.",
+			"newSpeaker" : "false"
+
+		},
+		{
+			"speaker" : "minerva",
+			"dialog" : "Like the letter",
+			"newSpeaker" : "false"
+		},
+		{
+			"speaker" : "jove",
+			"dialog" : "you're stalling",
+			"newSpeaker" : "false"
+		},
+		{
+			"speaker" : "minerva",
+			"dialog" : "You think im stalling?",
+			"newSpeaker" : "false"
+		}
+	]
+]
